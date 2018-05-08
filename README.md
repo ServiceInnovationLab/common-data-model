@@ -9,4 +9,6 @@ Information Sharing prototype in 2017) and it was extended to be a generic data 
 It is shared here as a draft as at 8th May 2018 for comment, analysis and the Service Innovation Lab team are 
 assessing it for our needs in developing reusable components for government services.
 
+Please note all parts of this Common Data Model are released under a Creative Commons By Attribution licence. 
+
 Comments and feedback welcome please.
